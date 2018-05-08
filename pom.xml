@@ -9,7 +9,7 @@
 	<url>http://maven.apache.org</url>
 
 	<properties>
-		<web.port>8080</web.port>
+		<web.port>8081</web.port>
 		<web.path>/WorkOrderProcess</web.path>
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
